@@ -1,5 +1,5 @@
 # Overview
-A bot that listen for new post on subreddit then scan for keywords from post title. If found match, message the post author
+Reddit Responder v1.0 is a free bot that watches for new posts in a subreddit for a given keyword. When a match is found, the user can message the post author to respond. Reddit Responder v1.0 is provided provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, non-infringement, and any warranty that these data and format are free from defects.
 
 ## Requirement
 - Python 3+
