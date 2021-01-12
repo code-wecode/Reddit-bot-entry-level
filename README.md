@@ -14,7 +14,7 @@ Reddit Responder v1.0 - A small but useful Reddit bot that watches subreddits fo
     Point your terminal to the projects directory and run `pip install -r requirements.txt`
 
 #### Setup
-instructions for use are [here:](https://docdro.id/vG2xFjc)
+instructions for use are [Here](https://docdro.id/vG2xFjc)
 
 
 ##### Run
